@@ -7,3 +7,8 @@
 You can reach me at aslee@morepower.ph / alyssaalexandralee@gmail.com.
 
 <img src="./bubbles-coding.jpg" width="500" height="300">
+
+## 𝓰𝓲𝓽𝓱𝓾𝓫 𝓼𝓽𝓪𝓽𝓼 📊
+![](https://github-readme-stats.vercel.app/api?username=codewithaal&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=codewithaal&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithaal&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)

@@ -1,6 +1,6 @@
 ## 𝒽𝑒𝓎𝓎𝓎 ~
 
-- 👩🏻‍💻 Heavily interested in data analysis, machine learning, and fullstack development
+- 👩🏻‍💻 Heavily interested in artificial intelligence, data science, machine learning, data analysis, and fullstack development
 - 🏫 BS in Computer Science at [University of the Philippines Visayas](https://www.upv.edu.ph/)
 - 💼 Energy Sourcing and Trading Developer at [MORE Power](https://morepower.com.ph/)
 
